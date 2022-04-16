@@ -1,0 +1,3 @@
+this is the fourth commit
+
+this is added after staging area to workspace
