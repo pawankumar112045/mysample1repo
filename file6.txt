@@ -1,0 +1,1 @@
+hi, I am from file6.txt
